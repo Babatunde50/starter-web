@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Babatunde Ololade I am a full stack web developer
 
 # THANKS
 
