@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
+Please fotk this repository and the issue pull request for review
+
 ### Copyright
 
 Obanimi
