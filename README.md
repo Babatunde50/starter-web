@@ -20,4 +20,4 @@ Please fotk this repository and the issue pull request for review
 
 ### Copyright
 
-Obanimi
+Obanimi All rights reserved.
